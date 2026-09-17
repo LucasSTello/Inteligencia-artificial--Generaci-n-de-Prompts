@@ -1,0 +1,28 @@
+﻿# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Variables de entorno y credenciales sensibles
+.env
+.env.local
+*.key
+credentials.json
+
+# Cache de Python y Jupyter
+__pycache__/
+*.py[cod]
+*.class
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs y temporales
+*.log
+scratch/
+tmp/

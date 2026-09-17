@@ -1,0 +1,5 @@
+Hazme un plan de estudio para la materia {MATERIA}.
+Tengo que estudiar estos temas: {TEMAS}.
+Tengo {DIAS_DISPONIBLES} días y puedo estudiar {HORAS_POR_DIA} horas por día.
+Mi nivel es {NIVEL}, el examen es el {FECHA_EXAMEN}, mi objetivo es {OBJETIVO} y mis preferencias son {PREFERENCIAS}.
+Organízalo bien y dime qué hacer.

@@ -1,0 +1,39 @@
+================================================================================
+PROMPT DE GENERACIÓN TEXTO-A-IMAGEN: STUDYAI INFOGRAFÍA VISUAL SEMANAL
+================================================================================
+
+1. TIPO DE IMAGEN:
+Infografía educativa vectorial / Dashboard de cronograma semanal de estudio en formato horizontal panorámico (16:9).
+
+2. OBJETIVO:
+Proporcionar un recurso visual complementario y de alta síntesis para el estudiante, traduciendo el plan textual en un cronograma visual organizado de 7 días para la materia Programación, permitiendo monitorear sesiones de 2 horas diarias, temas, repasos y metas de aprendizaje.
+
+3. ESTILO VISUAL:
+Estética moderna, minimalista y tecnológica (Flat design / UI Dashboard educativo contemporáneo). Aspecto profesional, ordenado y universitario, similar a interfaces de plataformas de aprendizaje de última generación.
+
+4. COMPOSICIÓN Y ESTRUCTURA:
+- Encabezado superior: Título principal en mayúsculas ("COMPUTER PROGRAMMING: 7-DAY STUDY PLAN"), subtítulo descriptivo ("7 Modern Study Plan Calendar Dashboard") y barra de progreso semanal con indicador porcentual.
+- Cuerpo central: Cuadrícula horizontal dividida en 7 columnas estilizadas que representan las jornadas (Día 1 a Día 7 / Lunes a Domingo).
+- Tarjetas modulares diarias: Cada columna contiene contenedores con bordes redondeados y sombra sutil, con:
+  * Insignia de tiempo ("2hr").
+  * Título del eje temático diario (Variables, Condicionales, Bucles, Funciones, Arrays, Objetos/POO, Repaso Final y Examen).
+  * Lista de verificación con casillas de tareas diarias (Checklist).
+  * Distintivo de repaso espaciado (Spaced Repetition / Badges L1, L2, L3).
+  * Insignia de hito completado (Milestone / Completed).
+
+5. PALETA DE COLORES:
+- Color dominante: Azul pizarra profundo (Dark Slate Blue) para cabeceras y tarjetas prioritarias.
+- Color de acento tecnológico: Cian y azul cielo (Cyan / Sky Blue) para barras de progreso e indicadores activos.
+- Color secundario de alerta pedagógica: Ámbar / Dorado suave para insignias de repaso y logros.
+- Fondo: Blanco puro y gris neutro ultra claro (Off-white / Soft Gray #F8FAFC) garantizando contraste y descanso visual.
+
+6. TIPOGRAFÍA Y LEGIBILIDAD:
+Tipografía Sans-Serif geométrica (estilo Inter o Helvetica Neue), limpia, jerárquica y con excelente contraste cromático. Títulos claros y viñetas nítidas.
+
+7. AUSENCIA DE ELEMENTOS INNECESARIOS (NEGATIVE PROMPTING):
+Sin elementos visuales caóticos, sin ilustraciones caricaturescas o infantiles, sin texto borroso o artefactado, sin saturación de colores primarios, sin elementos distractores o pseudo-decoraciones sin función pedagógica.
+
+================================================================================
+PROMPT EN INGLÉS OPTIMIZADO PARA MODELOS GENERATIVOS (STABLE DIFFUSION / DALL-E / MIDJOURNEY):
+================================================================================
+Modern minimalist educational infographic showing a 7-day study plan calendar dashboard for a computer programming course. Clean UI/UX design, dark slate blue, cyan and soft amber color palette on clean white background. Shows 7 daily columns with structured 2-hour study blocks, task checklists, coding icons, spaced repetition review badges, and progress milestones. High resolution, professional, clear legible layout without cluttered text, 16:9 aspect ratio, vector aesthetic.
